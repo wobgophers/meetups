@@ -1,2 +1,2 @@
 # meetups
-Meetup presentations, notes &amp; sources
+Wolfsburg Gophers meetup presentations, notes &amp; sources
