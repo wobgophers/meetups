@@ -1,0 +1,5 @@
+Die Slides für den Vortrag "Go in der Google Cloud" von Christian Prior-Mamuyan findet ihr hier:
+
+https://cprior.github.io/go-gae-intro/business/marketing/presentation/wobgophers_2018-10-11.html#/
+
+Vielen Dank an dieser Stelle auch noch mal für Deinen sehr guten Vortrag!!
